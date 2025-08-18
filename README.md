@@ -46,8 +46,8 @@ Receiver Pinout (for two motors):
         VCC to 5V
         GND to GND
 
-        tb6612fng code thanks to Adam Meyer src: http://adam-meyer.com/arduino/TB6612FNG
         A01 and A02 to the first DC motor
         B01 and B02 to the second DC motor
 
 
+        tb6612fng code thanks to Adam Meyer src: http://adam-meyer.com/arduino/TB6612FNG
