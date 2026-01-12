@@ -4,10 +4,10 @@ Microcontroller code for irl aspect of my ongoing keke racing project.
 ----- Arduino finalised ------
 
 
-This setup has been tested and works with 2 motors, 2 arduino unos, a TB6612FNG Motor Controller, a NRF24L01 transciever pair, and KY040 joystick component. The arduino with the joystick is the transmitter and the arduino with the motors is the receiver.  
+This setup has been tested and works with 2 motors, 2 arduino unos, a TB6612FNG Motor Controller, a NRF24L01 transciever pair, and KY040 joystick component. The arduino with the joystick is the transmitter and the arduino with the motors is the receiver. 2 9v batteries might be needed.
 
 Pinout Instructions
-
+The pinout diagram will provide clear directions for connecting jumper cables, an image to follow, and a fritzing pinout diagram as well as pcb file. PS the pcb file is not the final version.
 Transmitter Pinout (unchanged):
 
     Joystick:
